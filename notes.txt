@@ -1,0 +1,2 @@
+This is an updated AS disassembly. If you want to update it, make sure it's assembles a bit, to bit identical Sonic 1 ROM. (No differences)
+Kega Fusion can only read ROMs up to 4096KBs.
